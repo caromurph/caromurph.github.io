@@ -1,10 +1,10 @@
 :root {
     --primaryText: #fff;
-    --secondaryText: #ff015e;
-    --primary: rgba(156, 39, 176, .60);
-    --secondary: rgba(255, 1, 94, .60); 
-    --buttonHover: rgba(156, 39, 176, .40);
-    --smallButtonHover: rgba(0, 0, 0, .25);
+    --secondaryText: #330eba;
+    --primary: rgba(107, 123, 223, 0.6);
+    --secondary: rgba(107, 123, 223, 0.6); 
+    --buttonHover: rgb(27, 47, 101);
+    --smallButtonHover: rgb(22, 12, 89);
 }
 
 html {
@@ -26,11 +26,7 @@ body {
     min-height: 100%;
     /* The image used for the site background. Try changing skyscape.jpg to stars.jpg. Put a replacement photo in the images folder and, in line 21 below, replace skyscape.jpg with yourbackgroundfilename.jpg */
     /* The linear gradient darkens the image, like putting a sunglasses lens on top of it. If you want to darken the image even more, change 0.1 (both times) to 0.3 or higher */
-<<<<<<< HEAD
-    background: center center;(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), <img src="images/pink.jpg" alt="background-image: ;">
-=======
-    background: linear-gradient;(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../pink.jpg); 
->>>>>>> 4db9489619c71d7f0cf3211d0fb8d4a0f82cbee1
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../images/clouds.jpg);
     /* Prevents the browser from repeating or "tiling" the background image */
     background-repeat: no-repeat;
     background-position: center;
