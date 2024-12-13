@@ -1,10 +1,10 @@
 :root {
     --primaryText: #fff;
-    --secondaryText: #fab9e9e2;
+    --secondaryText: #fdc6eee2;
     --primary: rgba(107, 123, 223, 0.6);
     --secondary: rgba(236, 119, 238); 
     --buttonHover: rgb(72, 148, 104);
-    --smallButtonHover: rgb(236, 119, 238);
+    --smallButtonHover: rgb(241, 196, 242);
 }
 
 html {
